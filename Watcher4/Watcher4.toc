@@ -1,0 +1,10 @@
+## Interface: 80100
+## Version: 4.0.0-alpha0.0.1
+## Title: Watcher 4.0.0 (DEV)
+## Author: Jordy141
+## Notes: Rotation helper with a timeline display.
+## SavedVariables: WatcherStorage
+## SavedVariablesPerCharacter: WatcherDB, WatcherCharStorage
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDispellable-1.0, LibSpellbook-1.0
+
+embeds.xml

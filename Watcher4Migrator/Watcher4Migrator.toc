@@ -1,0 +1,9 @@
+## Interface: 80100
+## Version: 4.0.0 (DEV build)
+## Title: Watcher 4.0.0 Data Migrator (DEV)
+## Author: Jordy141
+## Notes: Migrates saved data from the Watcher 3 format to the new Watcher 4 format. Loaded on-demand.
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDispellable-1.0, LibSpellbook-1.0
+## LoadOnDemand: 1
+
+Core.lua

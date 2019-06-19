@@ -1,0 +1,1 @@
+Watcher4.SpellFilters.AuraFilter = {};

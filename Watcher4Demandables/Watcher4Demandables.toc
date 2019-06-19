@@ -1,0 +1,9 @@
+## Interface: 80100
+## Version: 4.0.0 (DEV build)
+## Title: Watcher 4.0.0 Demandables (DEV)
+## Author: Jordy141
+## Notes: Contains data which only needs to be partially loaded (like locales or default settings), to save on memory usage. Loaded on-demand.
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDispellable-1.0, LibSpellbook-1.0
+## LoadOnDemand: 1
+
+Core.lua

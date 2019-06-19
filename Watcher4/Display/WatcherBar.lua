@@ -1,0 +1,1 @@
+Watcher4.Display.WatcherBar = {};
