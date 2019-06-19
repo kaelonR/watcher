@@ -1,0 +1,30 @@
+## Interface: 80100
+## Version: 3.0.8
+## Title: Watcher
+## Author: nothingsknower, Sparbanken, mpstark, Jordy141
+## Notes: Rotation helper with timeline display.
+## SavedVariablesPerCharacter: WatcherDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDispellable-1.0, LibSpellbook-1.0
+
+embeds.xml
+Locales\Locales.xml
+
+Core.lua
+Options.lua
+Display.lua
+Filters.lua
+Migrations.lua
+
+Defaults\Defaults.lua
+Defaults\Hunter.lua
+Defaults\Paladin.lua
+Defaults\Druid.lua
+Defaults\Rogue.lua
+Defaults\Warrior.lua
+Defaults\Shaman.lua
+Defaults\Priest.lua
+Defaults\Warlock.lua
+Defaults\Mage.lua
+Defaults\Monk.lua
+Defaults\Deathknight.lua
+Defaults\Demonhunter.lua
